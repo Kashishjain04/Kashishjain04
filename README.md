@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/code.gif" />
+</p>
 <h1 align="center">Hi 👋, I'm Kashish Jain</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
