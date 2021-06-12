@@ -1,8 +1,8 @@
-<p align="center">
-<img src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/code.gif" />
-</p>
 <h1 align="center">Hi 👋, I'm Kashish Jain</h1>
 <h3 align="center">A passionate full stack web developer.</h3>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/55389276/121788595-0f0a8480-cbec-11eb-9917-a10455d8a85d.gif" />
+</p>
 
 - 🌱 I’m currently learning **Next.js**
 
