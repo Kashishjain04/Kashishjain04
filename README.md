@@ -23,6 +23,7 @@
   <a href="https://linkedin.com/in/kashishjain04" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" /></a>
   <a href="https://gitlab.com/Kashishjain04" target="_blank"><img align="center" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" height="30" /></a>
   <a href="https://instagram.com/kashish_jain04" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="ig" height="30" /></a>
+  <a href="https://linktr.ee/kashish_jain04" target="_blank"><img align="center" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree" height="30" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
