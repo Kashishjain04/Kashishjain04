@@ -1,5 +1,12 @@
-<p align="center">
+<!-- <p align="center">
   <img width="90%" src="https://user-images.githubusercontent.com/55389276/135845617-f6289b31-8c02-4fe9-aa79-ab9a7514ea1b.gif" alt="intro" />
+</p> -->
+
+<h1 align="center">Hi 👋, I'm Kashish Jain</h1>
+<h3 align="center">A passionate full stack web developer.</h3>
+<p align="center">
+  <img alt="anim" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<!--   <img src="https://user-images.githubusercontent.com/55389276/121788595-0f0a8480-cbec-11eb-9917-a10455d8a85d.gif" /> -->
 </p>
 
 - 👨🏻‍💻 Currently working on **MERN, Firebase**
