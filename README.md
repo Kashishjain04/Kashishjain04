@@ -11,15 +11,16 @@
 
 </p>
 
-- 👨🏻‍💻 Currently working on **MERN, Firebase**
+<!-- - 👨🏻‍💻 Currently working on **MERN, Firebase** -->
 
-- 🌱 I’m currently learning **React Native**
+<!-- - 🌱 I’m currently learning **React Native** -->
 
-- 📫 Mail me at **jainabhishek7204@gmail.com**
+<!-- - 📫 Mail me at **jainabhishek7204@gmail.com** -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://kashishjain.tech" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF7C1F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" height="30" /></a>
+    <a href="mailto:jainabhishek7204@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/EMail-005F73?style=for-the-badge&logo=gmail&logoColor=white" alt="portfolio" height="30" /></a>
   <a href="https://linkedin.com/in/kashishjain04" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" /></a>
   <a href="https://gitlab.com/Kashishjain04" target="_blank"><img align="center" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" height="30" /></a>
   <a href="https://instagram.com/kashish_jain04" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="ig" height="30" /></a>
